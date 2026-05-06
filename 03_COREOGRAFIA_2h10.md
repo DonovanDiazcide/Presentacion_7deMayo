@@ -1,4 +1,4 @@
-# Coreografía minuto-a-minuto · jueves 7 de mayo · 9:40–11:50 (2h10)
+# Coreografía minuto-a-minuto · jueves 7 de mayo · 9:00–11:10 (2h10)
 
 
 >
@@ -18,14 +18,14 @@
 
 | Tramo | Duración | Min absolutos |
 |---|---|---|
-| Preámbulo / marco narrativo | 8 min | 9:40–9:48 |
-| **Ronda 1** — Bloque 1 / pregunta A (¿quién paga?) | 25 min | 9:48–10:13 |
-| **Ronda 2** — Bloque 1 / pregunta B (decoupling y geopolítica) | 25 min | 10:13–10:38 |
-| Receso | 5 min | 10:38–10:43 |
-| **Ronda 3** — Bloque 2 / pregunta A (asimetría regional) | 25 min | 10:43–11:08 |
-| **Ronda 4** — Bloque 2 / pregunta B (México y choque petrolero) | 25 min | 11:08–11:33 |
-| Síntesis transversal + puentes con el semestre + Q&A abierto | 15 min | 11:33–11:48 |
-| Cierre | 2 min | 11:48–11:50 |
+| Preámbulo / marco narrativo | 8 min | 9:00–9:08 |
+| **Ronda 1** — Bloque 1 / pregunta A (¿quién paga?) | 25 min | 9:08–9:33 |
+| **Ronda 2** — Bloque 1 / pregunta B (decoupling y geopolítica) | 25 min | 9:33–9:58 |
+| Receso | 5 min | 9:58–10:03 |
+| **Ronda 3** — Bloque 2 / pregunta A (asimetría regional) | 25 min | 10:03–10:28 |
+| **Ronda 4** — Bloque 2 / pregunta B (México y choque petrolero) | 25 min | 10:28–10:53 |
+| Síntesis transversal + puentes con el semestre + Q&A abierto | 15 min | 10:53–11:08 |
+| Cierre | 2 min | 11:08–11:10 |
 
 **Cada ronda** (25 min) sigue el mismo molde:
 
@@ -39,7 +39,7 @@
 
 ---
 
-## Preámbulo (9:40–9:48 · 8 min) — **Donovan**
+## Preámbulo (9:00–9:08 · 8 min) — **Donovan**
 
 > **Tono:** narrativo, marca el arco del semestre. Imitar el preámbulo de Inglis del 5 marzo: anclaje histórico-contextual antes de bajar a la lectura del día.
 
@@ -53,7 +53,7 @@
 
 ---
 
-## Ronda 1 (9:48–10:13 · 25 min) — Bloque 1, pregunta A
+## Ronda 1 (9:08–9:33 · 25 min) — Bloque 1, pregunta A
 
 **Owner: Donovan** (FK §3 + §6.1–6.4)
 
@@ -83,7 +83,7 @@ Sonia: *"Bien. Quién paga ya no es novedad después de Amiti et al. (2019). P
 
 ---
 
-## Ronda 2 (10:13–10:38 · 25 min) — Bloque 1, pregunta B
+## Ronda 2 (9:33–9:58 · 25 min) — Bloque 1, pregunta B
 
 **Owner: Sonia** (FK §6.5–6.8 + §7), apoyo: **Zavdiel** (Tooze pp. 4–7)
 
@@ -117,13 +117,13 @@ Sonia llama; pizarrón: decoupling, desvío, Vietnam/México, geopolítica, cost
 
 ---
 
-## Receso (10:38–10:43 · 5 min)
+## Receso (9:58–10:03 · 5 min)
 
 Donovan circula confirmando que las hojas estén en mano de todos. Sonia revisa que el reloj siga alineado. Inglis a veces aprovecha el receso para preguntar al equipo cosas: tener listas las páginas de cada lectura.
 
 ---
 
-## Ronda 3 (10:43–11:08 · 25 min) — Bloque 2, pregunta A
+## Ronda 3 (10:03–10:28 · 25 min) — Bloque 2, pregunta A
 
 **Owner: Valentina** (RUV §4)
 
@@ -154,7 +154,7 @@ Valentina: *"Y eso es solo dentro de EUA. Carolina, ¿qué pasa cuando salimos d
 
 ---
 
-## Ronda 4 (11:08–11:33 · 25 min) — Bloque 2, pregunta B
+## Ronda 4 (10:28–10:53 · 25 min) — Bloque 2, pregunta B
 
 **Owner: Carolina** (RUV §6 + §7 + Ferguson)
 
@@ -187,7 +187,7 @@ Carolina cede a Donovan para la síntesis transversal.
 
 ---
 
-## Síntesis transversal + puentes con el semestre + Q&A abierto (11:33–11:48 · 15 min)
+## Síntesis transversal + puentes con el semestre + Q&A abierto (10:53–11:08 · 15 min)
 
 ### Bisagra T-MEC (min 0–3) — Donovan
 

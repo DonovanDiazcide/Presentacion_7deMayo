@@ -65,7 +65,7 @@ Ver `02_ENSAYO_protocolo.md`.
 
 ---
 
-## 5. Coreografía 2h10 (jueves 7 mayo, 9:40–11:50) — formato Inglis
+## 5. Coreografía 2h10 (jueves 7 mayo, 9:00–11:10) — formato Inglis
 
 > Nosotros tratamos de copiar el estilo de la clase de Inglis: mucha participación, grupos pequeños, discusión abierta, el equipo provocando y sintetizando. El objetivo es que la clase la muevan los compañeros, no nosotros.
 
@@ -92,8 +92,7 @@ Ver `03_COREOGRAFIA_2h10.md` para la versión minuto-a-minuto. Vista resumen:
 |---|---|---|---|
 | Impresión | **Donovan** | Verifica `Esquema_7mayo2026.pdf`, compila, imprime 18 copias dobles cara | jueves 8:00 |
 | Quiz master | **Donovan** | Crea y publica Google Form (D1) | miércoles 11:30 |
-| Editor de citas | **Zavdiel** | Auditoría: cada cita textual de las hojas existe literalmente en la fuente con página correcta (usar notebookLM con el esquema + las lecturas para la verificación)| miércoles 22:00 |
-| Coreógrafa de clase | **Sonia** | Custodia el reloj el jueves; gestiona transiciones | jueves 9:40 |
+| Coreógrafa de clase | **Sonia** | Custodia el reloj el jueves; gestiona transiciones | jueves 9:00 |
 
 ---
 
@@ -107,11 +106,10 @@ Ver `03_COREOGRAFIA_2h10.md` para la versión minuto-a-minuto. Vista resumen:
 | Mié 6 mayo 12:00–16:00 | Todos | Llenan quiz |
 | Mié 6 mayo AM–PM | Todos | Deep dive individual (~1.5 h) |
 | Mié 6 mayo 19:00–21:00 | Equipo | Ensayo en vivo Zoom |
-| Mié 6 mayo 22:00 | Zavdiel | Verificación de citas terminada |
 | Mié 6 mayo 23:00 | Valentina + Carolina | Q&A anticipado distribuido |
 | Jue 7 mayo 8:00 | Donovan | 18 copias impresas |
-| Jue 7 mayo 9:30 | Equipo | Mini-checklist verbal de 10 min antes de entrar |
-| Jue 7 mayo 9:40 | — | **Sesión** |
+| Jue 7 mayo 8:50 | Equipo | Mini-checklist verbal de 10 min antes de entrar |
+| Jue 7 mayo 9:00 | — | **Sesión** |
 
 ---
 
